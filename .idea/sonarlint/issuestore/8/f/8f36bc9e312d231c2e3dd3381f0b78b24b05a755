@@ -1,0 +1,11 @@
+
+<
+java:S1659"!Declare "end" on a separate line.(©Ô‹ýÿÿÿÿ
+=
+java:S1659""Declare "next" on a separate line.(Á¦ÓÂýÿÿÿÿ
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ñøËÁ
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ñøËÁ
+m
+java:S6204#"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(å¡ãåûÿÿÿÿ
+m
+java:S62042"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„£ÿÎøÿÿÿÿ

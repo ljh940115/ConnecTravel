@@ -1,0 +1,9 @@
+
+~
+java:S1488<"hImmediately return this expression instead of assigning it to the temporary variable "tourBoardReview1".(‘‰
+|
+java:S3655Š"^Call "tourBoardReview.isPresent()" or "!tourBoardReview.isEmpty()" before accessing the value.(²Òî†8À¬§«º1
+X	java:S1252"<This block of commented-out lines of code should be removed.(İ¡—8àš¶Äº1
+X	java:S125>"<This block of commented-out lines of code should be removed.(ŠãÈ8áš¶Äº1
+X	java:S125R"<This block of commented-out lines of code should be removed.(Ô™´ö8âš¶Äº1
+Y	java:S125£"<This block of commented-out lines of code should be removed.(ŸÈÏÕ8ïš¶Äº1

@@ -1,0 +1,9 @@
+
+v
+java:S1488#"`Immediately return this expression instead of assigning it to the temporary variable "qnaReply".(Íﬁ—ú
+X	java:S125 "<This block of commented-out lines of code should be removed.(ÉŒœü8ë”æ˝∏1
+Q
+java:S18542";Remove this useless assignment to local variable "replyer".(’á»œ
+B
+java:S14812",Remove this unused "replyer" local variable.(’á»œ
+V	java:S125:"<This block of commented-out lines of code should be removed.(∂ﬂëê˛ˇˇˇˇ

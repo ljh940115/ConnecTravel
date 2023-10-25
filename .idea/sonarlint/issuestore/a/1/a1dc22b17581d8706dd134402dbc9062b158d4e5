@@ -1,0 +1,21 @@
+
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»éﬁ∆
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ºÃ¢
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ºÃ¢
+t
+java:S1488/"^Immediately return this expression instead of assigning it to the temporary variable "imgDTO".(¸òÆæ
+f
+java:S3655%"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‰±¯Œ
+f
+java:S3655."PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(∑©Ü¢
+f
+java:S3655;"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(»éﬁ∆
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(ÍÊƒﬁ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(ÍÊƒﬁ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÌØ Ø˙ˇˇˇˇ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(â´‰Û
+V	java:S125P"<This block of commented-out lines of code should be removed.(ŸØ›éˇˇˇˇˇ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(◊–Åß
+V	java:S125o"<This block of commented-out lines of code should be removed.(éØï”¸ˇˇˇˇ

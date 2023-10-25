@@ -1,0 +1,8 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ïüÂĞ
+Y
+java:S1612"CReplace this lambda with method reference 'Room::getAccommodation'.(†¶Œù
+U
+java:S1612"?Replace this lambda with method reference 'RoomDTO::getAcc_id'.(Ø¿¢ò
+\
+java:S1612"AReplace this lambda with method reference 'Reservation::getRvno'.(®Áš®úÿÿÿÿ

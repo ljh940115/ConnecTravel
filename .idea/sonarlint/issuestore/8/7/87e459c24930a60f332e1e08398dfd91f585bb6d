@@ -1,0 +1,11 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶›Àáýÿÿÿÿ
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä€¦î
+Q	java:S125"<This block of commented-out lines of code should be removed.(ûÁŸ‚
+]	java:S125("<This block of commented-out lines of code should be removed.(ÊýÝ­ýÿÿÿÿ8³­ÚÄº1
+a
+java:S1128"DRemove this unused import 'com.connectravel.entity.TourBoardReview'.( ×šï8ˆÂ÷Äº1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ˆÂ÷Äº1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ˆÂ÷Äº1

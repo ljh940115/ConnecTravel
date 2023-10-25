@@ -1,0 +1,21 @@
+
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛšÙ¬ùÿÿÿÿ
+f	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÚÁ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓ‘¸üÿÿÿÿ
+k	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÑ—´ùÿÿÿÿ
+v
+java:S1488i"`Immediately return this expression instead of assigning it to the temporary variable "realname".(Â¤ÊŸ
+{
+java:S1488t"`Immediately return this expression instead of assigning it to the temporary variable "realname".(Æğçêùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Âº™êúÿÿÿÿ
+d
+java:S4042$"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ŞúÜö
+E	java:S106/"+Replace this use of System.out by a logger.(å¸³Óşÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(İİÛÈ
+c	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÚÁ
+@	java:S106O"+Replace this use of System.out by a logger.(”ÿ¼ò
+@	java:S106Q"+Replace this use of System.out by a logger.(Âù˜¦
+@	java:S106V"+Replace this use of System.out by a logger.(ÓÙ•é
+h	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÑ—´ùÿÿÿÿ
+c	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ÷¹
+b	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¹Æ|

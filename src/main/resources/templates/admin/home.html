@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{fragmentsAdminConfig/layout}">
+
+<!-- 사용자 CSS 추가 -->
+<th:block layout:fragment="css">
+    <style>
+        .fieldError {
+            color: #bd2130;
+        }
+    </style>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .button-container button {
+            margin: 0 10px;
+        }
+    </style>
+</th:block>
+
+<!-- 사용자 스크립트 추가 -->
+<th:block layout:fragment="script">
+
+    <script th:inline="javascript">
+        $(document).ready(function () {
+            var errorMessage = [[${errorMessage}]];
+            if (errorMessage != null) {
+                alert(errorMessage);
+            }
+        });
+    </script>
+
+</th:block>
+<script type="text/javascript">
+    $(document).ready(function(){
+    });
+</script>
+
+<body>
+<div layout:fragment="content">
+    <div id="maininner"><!-- maininner (s)-->
+        <div class="cc-tab-con">
+            <button type="button" class="btn btn-outline-primary" onclick="navigateTo('/admin/accounts')">사용자 관리</button>
+            <button type="button" class="btn btn-outline-primary" onclick="navigateTo('/admin/roles')">권한 관리</button>
+            <button type="button" class="btn btn-outline-primary" onclick="navigateTo('/admin/resources')">리소스 관리</button>
+        </div>
+        <script th:inline="javascript">
+            function navigateTo(url) {
+                window.location.href = url;
+            };
+        </script>
+        <div class="tbl_wrp">
+            <div style="padding-top:50px;" class="col">
+                <div class="container text-center">
+                    <div class="security"></div>
+                    <h1 class="text-primary">Connectravel</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
